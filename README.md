@@ -1,5 +1,5 @@
 # GSoC-EXXA
-This repo contains my submissions of all the three tasks for the project titled "Foundation Models for Exoplanet Characterization" by EXXA @ ML4SCI under GSoC'25. I have successfully completed all the three tasks with various approaches for all the tasks and have extensively prepared the notebooks which are well documented with proper markdown and clear code
+This repo contains my submissions of all the three tasks for the project titled **"Foundation Models for Exoplanet Characterization"** by EXXA @ ML4SCI under GSoC'25. I have successfully completed all the three tasks with various approaches for all the tasks and have extensively prepared the notebooks which are well documented with proper markdown and clear code
 
 #### Note : Since Model weights of some trained models cant be uploaded to git due to their size, I have placed a dummy file in place of them. Original model and dataset (specifically for third task) can be found through this google drive link **[here](https://drive.google.com/drive/folders/12geq5o1wHKxOkZR_NhsBvinh2wOu70WX?usp=sharing)**
 
